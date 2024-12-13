@@ -4,4 +4,4 @@ Click on each topic to view sample code in Markdown format.
 
 ## Design Patterns
 
-- [Publisher Subscriber Pattern](PubSub.md): Java code sample.
+- [Publisher Subscriber Pattern](PubSub.MD): Java code sample.
